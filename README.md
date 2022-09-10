@@ -23,7 +23,10 @@ git push -u origin main
 	- On left naviagation, select `Pages` 
 	- Go to `Build and deployment` section on right side
 	- Select `gh-pages`, `root` context and save.
-
+    - It will few seconds to publish your content.
+	- https://ibm-mas-manage.github.io/reponame/
+	- For example, https://ibm-mas-manage.github.io/template/
+	
 # Sample markdown constructs:
 
 # Sample
