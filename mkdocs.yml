@@ -1,15 +1,15 @@
 # mkdocs serve
 
-site_name: Frequently Asked Questions
+site_name: Sample
 
-site_url: https://ibm-mas-manage.github.io/faq/
+site_url: https://ibm-mas-manage.github.io/template
 
 repo_name: GitHub
-repo_url: https://github.com/ibm-mas-manage/faq
+repo_url: https://github.com/ibm-mas-manage/template
 edit_uri: blob/master/docs/
 
 nav:
-  - 'Frequently Asked Questions': index.md
+  - 'Sample': index.md
 
 theme:
   name: readthedocs
@@ -24,5 +24,4 @@ markdown_extensions:
       permalink: 
   - admonition
   # Add this to support expandable sections
-  #- pymdownx.details
 
