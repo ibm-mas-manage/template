@@ -17,7 +17,7 @@ git push -u origin main
 ```
 - Create master branch in your repo.
 - Create a PR to push your changes to master branch when you ready to publish.
-	- Approve changes
+	- Merge pull request
 
 - Update your repo settings to publish content: (It is one time setting)
 	- On left naviagation, select `Pages` 
