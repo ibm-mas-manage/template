@@ -19,13 +19,16 @@ git push -u origin main
 - Create a PR to push your changes to master branch when you ready to publish.
 	- Approve changes
 
-- Update your repo settings to publish content
+- Update your repo settings to publish content: (It is one time setting)
 	- On left naviagation, select `Pages` 
 	- Go to `Build and deployment` section on right side
 	- Select `gh-pages`, `root` context and save.
-    - It will few seconds to publish your content.
+    - It will take few seconds to publish your content.
 	- https://ibm-mas-manage.github.io/reponame/
 	- For example, https://ibm-mas-manage.github.io/template/
+	- Update site and repo url in mkdocs.yml
+	
+- Your content will be publish automatically when pushed to master branch.
 	
 # Sample markdown constructs:
 
